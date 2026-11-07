@@ -3,13 +3,13 @@
   <channel>
     <title>Peeko</title>
     <item>
-      <title>Version 1.0.10</title>
-      <pubDate>Sat, 07 Nov 2026 13:30:24 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+      <title>Version 1.0.11</title>
+      <pubDate>Sat, 07 Nov 2026 14:14:43 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's new</h3><ul><li>Fixed a blank white rectangle that could appear on screen after waking the Mac or changing displays.</li><li>Your pet now tells you sooner when an update is ready, and you can update with one click.</li></ul>]]></description>
-      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.10/Peeko-1.0.10.dmg" sparkle:edSignature="N3zfnPnYsD2qIPwIUG3zQHLpVyc6zq4DAfqPsHKjrBMFBUTKRQl9kFH6qe6QK/hRjzn2OWYbMREnMR3FNF9GBA==" length="5217571" type="application/octet-stream"/>
+      <description><![CDATA[<h3>What's new</h3><ul><li>Pengo can now swim: he paddles through the window with his flippers and feet, turns to face where he is going and looks up or down along the way.</li><li>Pengo can look up and down by moving just his head.</li><li>Your pet reminds you before meetings (on by default, 5 minutes before). Reminders for other calendar events can be turned on in Settings.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.11/Peeko-1.0.11.dmg" sparkle:edSignature="XCqCqfEF3OWMgSJkgtZOIfUGVQvaP7yv0V0dK+sksI7lSUUyiCuebU5sOIQiKJYMNIPArwrtXtmX6/OR/GDtAw==" length="5247673" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
