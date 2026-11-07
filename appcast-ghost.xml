@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Peeko</title>
+    <item>
+      <title>Version 1.0.9</title>
+      <pubDate>Sat, 07 Nov 2026 12:23:46 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new</h3><ul><li>Updates now arrive by themselves: your pet tells you when a new version is ready, one click installs it.</li><li>ClickUp dates can go into your Apple Calendar, one way and without duplicates (Settings, Connected Apps).</li><li>Code tab: start new chats without picking a folder, choose the Claude model, copy replies and save chats.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.9/Peeko-1.0.9.dmg" sparkle:edSignature="/4PfkDgetDkKkv8dYYBPzuTi30bCpyIn0KJ8tJKUv1nEOR5BkU+cF53EK58WkSXl61DnY9ylywcq5yQfb2I3Aw==" length="5215435" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
