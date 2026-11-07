@@ -3,13 +3,13 @@
   <channel>
     <title>Axolo</title>
     <item>
-      <title>Version 1.0.9</title>
-      <pubDate>Sat, 07 Nov 2026 12:23:46 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <title>Version 1.0.10</title>
+      <pubDate>Sat, 07 Nov 2026 13:30:24 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's new</h3><ul><li>Updates now arrive by themselves: your pet tells you when a new version is ready, one click installs it.</li><li>ClickUp dates can go into your Apple Calendar, one way and without duplicates (Settings, Connected Apps).</li><li>Code tab: start new chats without picking a folder, choose the Claude model, copy replies and save chats.</li></ul>]]></description>
-      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.9/Axolo-1.0.9.dmg" sparkle:edSignature="UOokLAjwHgiGtlJEWqiMs9fScWjQ/MjJI+hfDqXSZElLwEEs81EUzZw3BQD0inMPmd26GkSyM+1Jusr7BNSvDw==" length="5263983" type="application/octet-stream"/>
+      <description><![CDATA[<h3>What's new</h3><ul><li>Fixed a blank white rectangle that could appear on screen after waking the Mac or changing displays.</li><li>Your pet now tells you sooner when an update is ready, and you can update with one click.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.10/Axolo-1.0.10.dmg" sparkle:edSignature="0/Gpy7FhyAcDlmw6hOmg5E71E1cDk2gsAiLOOBNb9t/ZiVwTzudeysNWcLd4qqpdgTxd132Stxsz4p/53MYPBg==" length="5265011" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
