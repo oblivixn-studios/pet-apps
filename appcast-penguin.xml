@@ -3,13 +3,13 @@
   <channel>
     <title>Pengo</title>
     <item>
-      <title>Version 1.0.11</title>
-      <pubDate>Sat, 07 Nov 2026 14:14:43 +0000</pubDate>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+      <title>Version 1.0.12</title>
+      <pubDate>Mon, 09 Nov 2026 09:30:46 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's new</h3><ul><li>Pengo can now swim: he paddles through the window with his flippers and feet, turns to face where he is going and looks up or down along the way.</li><li>Pengo can look up and down by moving just his head.</li><li>Your pet reminds you before meetings (on by default, 5 minutes before). Reminders for other calendar events can be turned on in Settings.</li></ul>]]></description>
-      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.11/Pengo-1.0.11.dmg" sparkle:edSignature="vNb1SMorcoAmzVt0qntFaiLRj+SstZ84dmhDMM/Tc1Q1pKRUXLoexJi9IuYd/bmoJZy0H6ut+67TGVXROWQFDg==" length="5239768" type="application/octet-stream"/>
+      <description><![CDATA[<h3>What's new</h3><ul><li>Your pet now has its own personality: Boo pulls pranks, Pip trips over his own feet and Mochi blows bubbles.</li><li>Pet your pet with the mouse for hearts, and hand out snacks you earn by finishing tasks and focus rounds.</li><li>After an event your pet asks how it went, and after a meeting it can collect your to-dos.</li><li>Meeting reminders now show the agenda, your note from last time and related open tasks.</li><li>During focus time your pet works right next to you and types along when you type.</li><li>Your pet reacts to your Mac: low battery, the charger, lost Wi-Fi, heat and very late nights.</li><li>Drop a file, picture or text onto your pet to summarize it, translate it, read the text, save it as a to-do or hand it to Claude.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.12/Pengo-1.0.12.dmg" sparkle:edSignature="sz4k/+5bA9rjKOaIi+p27GiMtI3JD2hBh7yVKxabnZNO75BsTwf8nOT+FUWbuaAMxKRttJ/5RfSNfwKPX8P5Cw==" length="5447607" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
