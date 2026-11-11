@@ -3,13 +3,13 @@
   <channel>
     <title>Pengo</title>
     <item>
-      <title>Version 1.0.15</title>
-      <pubDate>Mon, 09 Nov 2026 17:34:01 +0000</pubDate>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+      <title>Version 1.0.17</title>
+      <pubDate>Wed, 11 Nov 2026 15:01:55 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's new</h3><ul><li>Your pet has a present for you. Open it!</li><li>Snow falls across your screen and settles on your windows. Turn on "Let it snow" in the menu bar and it keeps snowing until you turn it off again.</li><li>Your pet now has a room. Finished tasks and focus time earn stars for furniture.</li><li>Your pet dances when your music plays.</li><li>Good night ritual: end your day and your pet sums it up, yawns and goes to sleep under a blanket.</li><li>A little postcard of your week, ready to save or share.</li><li>Surprises for milestones, holidays and your birthday.</li><li>Every 25 minutes of focus now earns your pet a snack, no matter how long your focus round is.</li></ul>]]></description>
-      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.15/Pengo-1.0.15.dmg" sparkle:edSignature="6kZpG+ufokLYrySDqAuV5Y2R6xbYe0ET3V3IvvLpix7/u+yjQq1tITEKRV5VV5R4jm/KLL+A2X5EyZaho+EpCQ==" length="5738590" type="application/octet-stream"/>
+      <description><![CDATA[<h3>What's new</h3><ul><li>New Friends tab: share your friend code or add a friend's. When a friend starts a focus round, their pet comes over to your screen and works at its own desk next to yours.</li><li>Click a friend's name tag to join their round, so you both finish at the same time.</li><li>Step away during a focus round and your pet tells your friends. Meanwhile the pets on your screen play together until you're back.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.17/Pengo-1.0.17.dmg" sparkle:edSignature="fZ7qO+k7C71bSYog5Thy1g6w86RXOeppJJF/C3Uj9Eq1kaNJGUWzbGKFcNXBDXngqfzixX/jjIV8zGU9VsMRDg==" length="6003319" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
