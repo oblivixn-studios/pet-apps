@@ -3,13 +3,13 @@
   <channel>
     <title>Axolo</title>
     <item>
-      <title>Version 1.0.17</title>
-      <pubDate>Wed, 11 Nov 2026 15:01:55 +0000</pubDate>
-      <sparkle:version>19</sparkle:version>
-      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+      <title>Version 1.0.19</title>
+      <pubDate>Fri, 13 Nov 2026 12:49:41 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's new</h3><ul><li>New Friends tab: share your friend code or add a friend's. When a friend starts a focus round, their pet comes over to your screen and works at its own desk next to yours.</li><li>Click a friend's name tag to join their round, so you both finish at the same time.</li><li>Step away during a focus round and your pet tells your friends. Meanwhile the pets on your screen play together until you're back.</li></ul>]]></description>
-      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.17/Axolo-1.0.17.dmg" sparkle:edSignature="U8fRGMSLUaixGrMTF+Q/Z9RywlO2MDyJ7ElRXtw+rfUIzPuv4WQSFVfqYFKgyb3WVwAoc0rhVk8irrP+VaKHAw==" length="6055789" type="application/octet-stream"/>
+      <description><![CDATA[<h3>What's new</h3><ul><li>Work together any time: ask a friend if you can join them, or invite them to join you. No focus round needed.</li><li>Up to five people per session. Your pets sit at their desks side by side until someone leaves.</li><li>Joining a friend who is in a focus round starts the same round for you, and their pet tells you when they start a new one.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.19/Axolo-1.0.19.dmg" sparkle:edSignature="b1rYT25sRJgf/1N4sZqaJMfQyv2/NGhni7pdLlrmmk5V3UepPGJl26ctmqFMtLFuMuYu843FWSvIZQmah0HPBw==" length="6119955" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
