@@ -3,13 +3,13 @@
   <channel>
     <title>Axolo</title>
     <item>
-      <title>Version 1.0.20</title>
-      <pubDate>Fri, 13 Nov 2026 13:26:16 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+      <title>Version 1.0.21</title>
+      <pubDate>Fri, 13 Nov 2026 16:05:47 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's new</h3><ul><li>Met someone new in a session? Add them as a friend right from the "Working together" card.</li></ul>]]></description>
-      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.20/Axolo-1.0.20.dmg" sparkle:edSignature="O9pKcA8TBDkRTufgH3FcFzPlEPpBKUKr6+wIdQpmBu09VSFdL/uSMfIjpmX0mxBhnzF/79bloomT3KZFFn7PCw==" length="6133251" type="application/octet-stream"/>
+      <description><![CDATA[<h3>What's new</h3><ul><li>In a session your own pet now sits in the desk row too, next to everyone else, in the same order on every screen.</li><li>Talk to your session: quick lines or a short message, said by your pet. Click your pet's name tag in the row, or use the Friends tab.</li><li>Stuck? Ask for help (once every 10 minutes) and the other pets tell their humans that you need help.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.21/Axolo-1.0.21.dmg" sparkle:edSignature="Ece2arCim/Lud1bHVqmJBho+D4uNJi/b/b9rQ9VRZKNDANm1Zpq2j83RXrlXoJO56DvMCQdrUb0bBsMsXByyAA==" length="6190317" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
