@@ -1,4 +1,4 @@
-# Peeko, Pengo and Axolo
+# Peeko, Pengo, Axolo, Lavi and Bricky
 
 Little desktop pets for your Mac that plan your day with you.
 
@@ -11,6 +11,8 @@ Get the newest version under [Releases](https://github.com/oblivixn-studios/pet-
 - **Peeko** (ghost): `Peeko-x.y.z.dmg`
 - **Pengo** (penguin): `Pengo-x.y.z.dmg`
 - **Axolo** (axolotl): `Axolo-x.y.z.dmg`
+- **Lavi** (sits on your window): `Lavi-x.y.z.dmg`
+- **Bricky** (brick knight): `Bricky-x.y.z.dmg`
 
 Open the DMG and drag the app into Applications. Needs macOS 26 or newer.
 
