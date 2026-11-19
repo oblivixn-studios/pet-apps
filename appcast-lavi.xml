@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Lavi</title>
+    <item>
+      <title>Version 1.0.22</title>
+      <pubDate>Thu, 19 Nov 2026 08:18:11 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new</h3><ul><li>Two new pets, each in its own app: Lavi, who sits on top of your window and swings her legs, and Bricky, a little brick knight who lays a brick for every task you finish.</li><li>Pets of every kind can be friends: Lavi and Bricky show up properly in your sessions and on the friends list.</li><li>Under-the-hood cleanup of the app files.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.22/Lavi-1.0.22.dmg" sparkle:edSignature="Eb51cbv5rwssK+Bo+BxpgoNh6EFcwDCL6eQtg77kR7Nv/39vEc5NUB2kAqYy80rzj3G5KZlUP8mHwJGTahlUDw==" length="6423416" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>

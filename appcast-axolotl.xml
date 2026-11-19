@@ -3,13 +3,13 @@
   <channel>
     <title>Axolo</title>
     <item>
-      <title>Version 1.0.21</title>
-      <pubDate>Fri, 13 Nov 2026 16:05:47 +0000</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+      <title>Version 1.0.22</title>
+      <pubDate>Thu, 19 Nov 2026 08:18:11 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's new</h3><ul><li>In a session your own pet now sits in the desk row too, next to everyone else, in the same order on every screen.</li><li>Talk to your session: quick lines or a short message, said by your pet. Click your pet's name tag in the row, or use the Friends tab.</li><li>Stuck? Ask for help (once every 10 minutes) and the other pets tell their humans that you need help.</li></ul>]]></description>
-      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.21/Axolo-1.0.21.dmg" sparkle:edSignature="Ece2arCim/Lud1bHVqmJBho+D4uNJi/b/b9rQ9VRZKNDANm1Zpq2j83RXrlXoJO56DvMCQdrUb0bBsMsXByyAA==" length="6190317" type="application/octet-stream"/>
+      <description><![CDATA[<h3>What's new</h3><ul><li>Two new pets, each in its own app: Lavi, who sits on top of your window and swings her legs, and Bricky, a little brick knight who lays a brick for every task you finish.</li><li>Pets of every kind can be friends: Lavi and Bricky show up properly in your sessions and on the friends list.</li><li>Under-the-hood cleanup of the app files.</li></ul>]]></description>
+      <enclosure url="https://github.com/oblivixn-studios/pet-apps/releases/download/v1.0.22/Axolo-1.0.22.dmg" sparkle:edSignature="MgTMsPnMEUbPAUIgY8nqKaK0ApSI5xlp+uwhNabjpLbUBav+lcaR3r9z5sbZV8j/cv50L+jwKDqkWHG18egKBA==" length="6565586" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
